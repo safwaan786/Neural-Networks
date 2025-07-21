@@ -1,6 +1,6 @@
 # Neural Network from Scratch
 
-This project is a complete neural network framework built from scratch in pure Python + NumPy, with no external machine learning libraries. It supports building and training feedforward neural networks, including support for backpropagation, multiple optimizers, loss functions, regularization techniques, and prediction modes.
+This project is a complete neural network framework built from scratch in pure **Python + NumPy**, with no external machine learning libraries. It supports building and training feedforward neural networks, including support for backpropagation, multiple optimizers, loss functions, regularization techniques, and prediction modes.
 
 Tested on Fashion MNIST using raw pixel data, this project demonstrates how fundamental machine learning operations can be built from the ground up — including batching, regularization, dropout, prediction, and more.
 
