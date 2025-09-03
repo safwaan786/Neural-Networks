@@ -108,6 +108,7 @@ predictions = model.predict(X_test)
 ## 🚀 Potential Extensions
 
 * [ ] Add Convolutional Layers
+* [ ] Add GELU Activation
 * [ ] Load/export to ONNX or TorchScript
 * [ ] Add model visualizations and live loss plotting
 
