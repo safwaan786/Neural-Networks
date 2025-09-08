@@ -672,4 +672,3 @@ class Model:
             output.append(batch_output)
 
             return np.vstack(output)
-        
